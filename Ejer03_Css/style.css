@@ -1,0 +1,10 @@
+h1, p{
+    background-color: yellow;
+}
+
+.consigna {
+color:fuchsia;
+text-align:left;
+background-color: white;
+font-size: 25px;
+}
